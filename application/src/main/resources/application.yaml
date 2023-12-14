@@ -1,0 +1,6 @@
+app:
+  http-clients:
+    test:
+      url: localhost:8800
+      username: user
+      password: pass
